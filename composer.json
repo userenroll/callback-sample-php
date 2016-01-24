@@ -1,0 +1,14 @@
+{
+    "name": "userenroll/callback-sample-php",
+    "description": "Sample PHP application for consumption of Path HTTP callbacks",
+    "authors": [
+        {
+            "name": "Path Evolution, LLC",
+            "email": "contact@pathevolution.com"
+        }
+    ],
+    "require": {
+        "aws/aws-php-sns-message-validator": "^1.1",
+        "aws/aws-sdk-php": "^2.8"
+    }
+}
